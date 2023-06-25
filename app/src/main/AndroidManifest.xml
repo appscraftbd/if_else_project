@@ -13,6 +13,21 @@
         android:theme="@style/Theme.IFElseProject"
         tools:targetApi="31">
         <activity
+            android:name=".work5"
+            android:exported="false" />
+        <activity
+            android:name=".work4"
+            android:exported="false" />
+        <activity
+            android:name=".work3"
+            android:exported="false" />
+        <activity
+            android:name=".work2"
+            android:exported="false" />
+        <activity
+            android:name=".work1"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
